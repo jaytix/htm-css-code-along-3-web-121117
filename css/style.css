@@ -1,1 +1,12 @@
-/* this is  a comment */
+/* css syntax:
+
+selector {
+  property: value;
+  property: value;
+}
+*/
+
+p {
+  font-size: 1em;
+  line-height: 1.5em;
+}
