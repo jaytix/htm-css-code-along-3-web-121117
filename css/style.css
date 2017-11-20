@@ -34,5 +34,13 @@ figcaption {
 /* ID selector (apply to one unique element per page) */
 
 #logo {
-  background: aqua; 
+  background: aqua;
+}
+
+#logo h1 { /* selects <h1> if inside the id="logo"*/
+  font-family: 'Clicker Script', cursive;
+}
+
+#logo h1 {
+  font-family: 'Elise Swash Caps', cursive; 
 }
